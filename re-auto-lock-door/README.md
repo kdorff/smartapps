@@ -1,7 +1,7 @@
 # Re-Auto Lock Door
 
 I've been a long time user of "Enhanced Auto Lock Door" by Arnaud 
-[Original source code|https://github.com/SmartThingsCommunity/SmartThingsPublic/tree/master/smartapps/lock-auto-super-enhanced]
+[Original source code](https://github.com/SmartThingsCommunity/SmartThingsPublic/tree/master/smartapps/lock-auto-super-enhanced)
 (found in the SmartThings SmartApp store). I believe the original author 
 had a slightly different intent - a sensor that physically separated from 
 the lock in question so the sensor can also unlock the lock. In my scenario,
